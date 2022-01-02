@@ -1,2 +1,2 @@
 # HTML-Practice-
-Basic Html code for practice purposes
+This is code for practicing the basics of HTML. 
